@@ -2,14 +2,14 @@ var c,ci,r,ri,cif,rif,cim,rit;
 var bi
 var impor = "1"
 function preload() {
-    ci=loadAnimation("cat1.png")
-    cif=loadAnimation("cat4.png")
+    ci=loadAnimation("images/cat1.png")
+    cif=loadAnimation("images/cat4.png")
 
-    bi = loadImage("garden.png")
-    cim = loadAnimation("cat2.png","cat3.png")
-    ri=loadAnimation("mouse1.png")
-    rit=loadAnimation("mouse2.png","mouse3.png")
-    rif = loadAnimation("mouse4.png")
+    bi = loadImage("images/garden.png")
+    cim = loadAnimation("images/cat2.png","images/cat3.png")
+    ri=loadAnimation("images/mouse1.png")
+    rit=loadAnimation("images/mouse2.png","images/mouse3.png")
+    rif = loadAnimation("images/mouse4.png")
 }
 
 function setup(){
